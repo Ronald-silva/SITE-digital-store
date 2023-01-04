@@ -71,10 +71,10 @@ input{
    flex-direction: row;
    background-color: black;
    color:white;
-   border-bottom: 1px solid red;
+   
 }
 .ds{
-    font-size:xx-large;
+    font-size: 45px;
     margin-top: -1.5%;
     width: 100%;
     display:block;
@@ -95,6 +95,7 @@ input{
     flex-direction: row;  
     gap:9%;
     margin-right: 7%;
+    color: white;
 }
 .logo-rdf{
     margin:15%;
@@ -102,6 +103,7 @@ input{
     gap: 50px;
     margin-left: -1%;
     flex-direction: row;
+    
 }
 ul{
     list-style: none;
@@ -110,7 +112,7 @@ ul{
    align-items: center;
    text-align: center;
    margin-top: 35%; 
-   margin-left: -12%;
+   margin-left: -6%;
    gap:2%;
    margin-bottom: 50px;
    border-top: 1px solid white;
@@ -126,6 +128,16 @@ ul{
     top: 0;
     left: 0;
 }
+.f{
+    padding-right: 5%;
+}
+.i{
+    padding-right: 5%;
+}
+.sdp{
+    color:white;
+}
+
 
 
 
